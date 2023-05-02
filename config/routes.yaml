@@ -1,0 +1,5 @@
+controllers:
+  resource:
+    path: ../src/Controller/lucky/number
+    namespace: App\Controller\LuckyController::number
+  type: attribute
